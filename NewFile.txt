@@ -3,3 +3,8 @@ This is the first task  from sharpener for git
 
 
 Welcom agin on the task practice for edit
+
+
+this info goes to branch
+
+thank you :)
